@@ -1,6 +1,4 @@
-Here's a `README.md` for your TODO application that you can use on GitHub:
 
-```markdown
 # TODO Application
 
 A simple and responsive TODO application built using HTML, CSS, and JavaScript. This application allows users to manage their tasks by adding, editing, deleting, and marking tasks as completed.
@@ -10,7 +8,6 @@ A simple and responsive TODO application built using HTML, CSS, and JavaScript. 
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
 - [Project Setup](#project-setup)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -63,8 +60,4 @@ Here are some screenshots of the TODO application:
 ## Contributing
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
 
-Feel free to replace placeholder links and filenames with actual references relevant to your project.
